@@ -1,0 +1,6 @@
+{
+  "name": "veronica-everything-probe",
+  "version": "1.0.0",
+  "description": "A test plugin that runs the official MCP Everything server on your computer.",
+  "author": { "name": "SeniyaMendis" }
+}
